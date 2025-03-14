@@ -4,9 +4,9 @@ Selamat datang di proyek **Portfolio Flutter App**! Aplikasi ini adalah contoh a
 
 ## Fitur
 
-- Halaman Utama
-- Halaman Tentang
-- Halaman Kontak
+- Halaman HomePage
+- Halaman About
+- Halaman Contact
 - Navigasi Menu
 
 ## Screenshot
@@ -32,3 +32,7 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ### Penggunaan
 
 Setelah aplikasi berjalan, Anda dapat menavigasi antara halaman menggunakan menu yang tersedia di drawer. Anda dapat melihat informasi tentang aplikasi di halaman "About" dan menghubungi kami melalui halaman "Contact"
+
+### Teknologi yang Digunakan
+- Dart - Bahasa pemrograman yang digunakan dalam pengembangan aplikasi.
+- Flutter - Framework untuk membangun aplikasi.
